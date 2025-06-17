@@ -1,0 +1,16 @@
+2025-06-17 14:04:51,901 - __main__ - INFO - Iniciando a aplicação Gatinho ou Cachorrinho?
+2025-06-17 14:04:52,076 - model_inference - INFO - Tentando carregar modelo do arquivo: C:\Users\Maria Duda\Desktop\garota de programa\Inteligência Artificial\gatinho vs cachorrinho\assets\modelo_sklearn_gato_cachorro.joblib
+2025-06-17 14:04:54,125 - model_inference - INFO - Modelo carregado com sucesso.
+2025-06-17 14:04:54,126 - gui - WARNING - Ícone não encontrado em: C:\Users\Maria Duda\Desktop\garota de programa\Inteligência Artificial\gatinho vs cachorrinho\assets\gato.ico
+2025-06-17 14:05:04,208 - gui - INFO - Imagem selecionada: C:/Users/Maria Duda/Downloads/Cats PNG Transparent Images Free Download _ Vector Files _ Pngtree.jpg
+2025-06-17 14:05:06,842 - gui - INFO - Realizando previsão para: C:/Users/Maria Duda/Downloads/Cats PNG Transparent Images Free Download _ Vector Files _ Pngtree.jpg
+2025-06-17 14:05:06,862 - gui - INFO - Previsão: Gato com 68.36% de certeza.
+2025-06-17 14:05:15,285 - gui - INFO - Imagem selecionada: C:/Users/Maria Duda/Downloads/e73360a6-8334-45ca-9384-adf1f600dcfa.jpg
+2025-06-17 14:05:16,518 - gui - INFO - Realizando previsão para: C:/Users/Maria Duda/Downloads/e73360a6-8334-45ca-9384-adf1f600dcfa.jpg
+2025-06-17 14:05:16,554 - gui - INFO - Previsão: Cachorro com 55.73% de certeza.
+2025-06-17 14:05:35,938 - gui - INFO - Realizando previsão para: C:/Users/Maria Duda/Downloads/e73360a6-8334-45ca-9384-adf1f600dcfa.jpg
+2025-06-17 14:05:35,974 - gui - INFO - Previsão: Cachorro com 55.73% de certeza.
+2025-06-17 14:05:43,692 - gui - INFO - Imagem selecionada: C:/Users/Maria Duda/Downloads/4111885a-8091-4b8d-b9d1-9638923d83d5.jpg
+2025-06-17 14:05:45,366 - gui - INFO - Realizando previsão para: C:/Users/Maria Duda/Downloads/4111885a-8091-4b8d-b9d1-9638923d83d5.jpg
+2025-06-17 14:05:45,400 - gui - INFO - Previsão: Gato com 53.91% de certeza.
+2025-06-17 14:05:49,286 - __main__ - INFO - Aplicação encerrada.
