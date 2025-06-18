@@ -1,11 +1,13 @@
 🐾 Classificador de Imagens: Gatinho ou Cachorrinho?
 Um aplicativo desktop simples e divertido construído com Python (Tkinter/CustomTkinter) e Scikit-learn para classificar imagens como "Gato" ou "Cachorro". Este projeto demonstra a modularização de um pipeline de Machine Learning (treinamento e inferência) e uma interface gráfica de usuário amigável.
+
 ✨ Funcionalidades
 Classificação de Imagens: Preveja se uma imagem contém um gato ou um cachorro.
 Modelo de Machine Learning: Utiliza um modelo SVM (Support Vector Machine) treinado com Scikit-learn.
 Interface Gráfica Intuitiva: Desenvolvida com CustomTkinter para uma experiência de usuário moderna e agradável.
 Modularização: Código organizado em módulos lógicos para fácil manutenção e escalabilidade.
 Sistema de Logs: Registro detalhado de operações e erros para depuração.
+
 🚀 Como Usar
 Siga os passos abaixo para configurar e executar o projeto em sua máquina.
 Pré-requisitos
@@ -74,6 +76,7 @@ python main.py
 
 
 A janela do aplicativo será aberta. Clique em "Escolher Imagem", selecione uma imagem de gato ou cachorro e veja a previsão!
+
 🛠️ Tecnologias Utilizadas
 Python 3.x
 Scikit-learn: Para o algoritmo de Machine Learning (SVM).
@@ -81,6 +84,7 @@ Pillow (PIL): Para manipulação e pré-processamento de imagens.
 NumPy: Para operações numéricas e arrays de dados.
 CustomTkinter: Para a criação da interface gráfica moderna e responsiva.
 Joblib: Para serializar e deserializar o modelo treinado.
+
 📁 Estrutura de Módulos
 O projeto é modularizado da seguinte forma:
 main.py: Ponto de entrada principal da aplicação GUI.
@@ -89,13 +93,16 @@ model_inference.py: Abstrai a lógica de carregamento do modelo e realização d
 model_training.py: Contém a lógica completa para o pipeline de treinamento do modelo, desde o carregamento dos dados até a avaliação e salvamento.
 config.py: Centraliza todas as configurações e parâmetros do projeto (caminhos, tamanhos, nomes de classes, etc.).
 logging_config.py: Configura o sistema de log da aplicação para melhor depuração e monitoramento.
+
 📈 Melhorias Futuras (Ideias)
 Integração de Modelos Mais Complexos: Suporte a modelos de Deep Learning (ex: TensorFlow/Keras) para maior precisão.
 Multi-threading: Executar a previsão em uma thread separada para manter a GUI responsiva durante operações demoradas.
 Configurações de Hiperparâmetros: Interface para ajustar os hiperparâmetros do modelo.
 Feedback de Treinamento: Adicionar uma barra de progresso visual para o processo de treinamento (se este fosse integrado à GUI).
 Galeria de Imagens: Uma funcionalidade para navegar por várias imagens do dataset ou resultados de previsões.
+
 🤝 Contribuição
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests.
+
 📄 Licença
 Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
