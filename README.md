@@ -1,3 +1,5 @@
+MEMBROS: ANA BEATRIZ ARAÚJO SILVA, CINDY VITÓRIA ALVES DE ARAÚJO, EDUARDA KEILA DA SILVA MOURA, LARISSA ESTER RODRIGUES SALES JUSTINO, LUÍS JERÔNIMO RODRIGUES OLIVEIRA, MARIA EDUARDA DA SILVA PINTO.
+
 🐾 Classificador de Imagens: Gatinho ou Cachorrinho?
 Um aplicativo desktop simples e divertido construído com Python (Tkinter/CustomTkinter) e Scikit-learn para classificar imagens como "Gato" ou "Cachorro". Este projeto demonstra a modularização de um pipeline de Machine Learning (treinamento e inferência) e uma interface gráfica de usuário amigável.
 
